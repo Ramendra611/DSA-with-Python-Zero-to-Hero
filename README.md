@@ -39,7 +39,7 @@ Apply Python and DSA knowledge to solve real-world problems and scenarios
 ## Class Details: 
 
     Start date: 1 Feb 2026 
-    Weekly Live interactive classes - Sat and Sun. One doubt class in week as per student preference. 
+    Weekly Live interactive classes - Sat and Sun @4pm. One doubt class in week as per student preference. 
     Class Duration : 3 hours lecture + 30 minutes doubt session 
     Course Duration : Approx 4 months (28-32 classes)
     Doubt sessions after every live session and also during weekdays as per the need
