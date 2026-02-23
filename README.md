@@ -4,7 +4,7 @@ Important links:
 
 👉 Whatsapp: https://chat.whatsapp.com/DDeDFMpUAJc1x7dQXaYPl8
 
-👉Google Colab link: https://colab.research.google.com/drive/14hdRohTKF0ZOW2GLyXuBmS07odVuKPqf#scrollTo=CyxjsRvfuGIN
+👉 Topic Wise DSA Questions (with Solutions): https://colab.research.google.com/drive/14hdRohTKF0ZOW2GLyXuBmS07odVuKPqf#scrollTo=CyxjsRvfuGIN
 
 👉DSA tracker sheet:  https://docs.google.com/spreadsheets/d/18eX4xoNcSj-lmGJorwgXO7Tb0_eRiDv7rzXnp9iP1MA/edit?usp=sharing
 
